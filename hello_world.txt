@@ -1,0 +1,3 @@
+Test for the thing
+This is the thing
+Predictive text test
